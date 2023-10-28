@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hospital-api/static/css/main.2cc27923.css",
+    "main.js": "/hospital-api/static/js/main.662c0d74.js",
+    "static/js/787.cda612ba.chunk.js": "/hospital-api/static/js/787.cda612ba.chunk.js",
+    "static/media/boy.jpg": "/hospital-api/static/media/boy.6aaea0e2f96605b20000.jpg",
+    "static/media/hand.jpeg": "/hospital-api/static/media/hand.86e00f3b85ee123ab3fb.jpeg",
+    "index.html": "/hospital-api/index.html",
+    "main.2cc27923.css.map": "/hospital-api/static/css/main.2cc27923.css.map",
+    "main.662c0d74.js.map": "/hospital-api/static/js/main.662c0d74.js.map",
+    "787.cda612ba.chunk.js.map": "/hospital-api/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc27923.css",
+    "static/js/main.662c0d74.js"
+  ]
+}
