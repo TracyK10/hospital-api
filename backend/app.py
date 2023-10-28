@@ -10,11 +10,11 @@ CORS(app)
 
 
 conn = psycopg2.connect(
-  database="postgres",
-  user='postgres',
-  password='1234',
-  host='localhost',
-  port=5432
+  database="database",
+  user='user',
+  password='0000',
+  host='host',
+  port=0000
 )
 
 cursor = conn.cursor()
